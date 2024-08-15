@@ -1,6 +1,4 @@
 
----
-
 # KeepFresh
 
 Welcome to the official GitHub organization for the KeepFresh project! We are dedicated to creating innovative solutions for food expiry management and reducing food waste. Our main project is a comprehensive food expiry tracking app designed to help users efficiently manage their pantry, track food freshness, and receive timely reminders about expiry dates.
@@ -61,5 +59,4 @@ Stay updated with the latest news and updates from KeepFresh by following us on 
 
 Thank you for your interest in KeepFresh. Together, we can make food management smarter and more efficient!
 
----
 
