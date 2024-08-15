@@ -54,8 +54,8 @@ For any questions or further information, please contact us at [your_email@examp
 
 Stay updated with the latest news and updates from KeepFresh by following us on social media and checking out our repositories:
 
-- [KeepFresh Mobile App](https://github.com/yourorganization/keepfresh-mobile-app)
-- [KeepFresh Backend](https://github.com/yourorganization/keepfresh-backend)
+- [KeepFresh Mobile App](https://github.com/keepfreshio/keepfresh-mobile-app)
+- [KeepFresh Backend](https://github.com/keepfreshio/keepfresh-backend)
 
 Thank you for your interest in KeepFresh. Together, we can make food management smarter and more efficient!
 
